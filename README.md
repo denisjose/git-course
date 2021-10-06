@@ -1,7 +1,5 @@
 # Git Course NOVO
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 Este é um repositório teste para ensinar como Git funciona.
 
 Saiba mais em [www.ufu.br](http://www.ufu.br)
