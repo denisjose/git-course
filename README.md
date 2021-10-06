@@ -1,5 +1,7 @@
 # Git Course NOVO
 
+Alteração realizada na aula 29
+
 Este é um repositório teste para ensinar como Git funciona.
 
 Saiba mais em [www.ufu.br](http://www.ufu.br)
